@@ -31,15 +31,42 @@ For example, we do the test (such as AB test, usabiltiy test etc) to gain insigh
     7. Male -- Whether or not a consumer was male.
     8. Country -- Country of the consumer.
     9. Timestamp -- Time at which user clicked on an Ad or the closed window.
-    10. Clicked on Ad -- 0 or 1 is indicated clicking on an Ad.
+    10. Clicked on Ad -- 0 or 1 is indicated clicking on an Ad or not - 
+         Class 0 - not clicked ,and  Class 1 - clicked.
 - The goal of this project is to predict what kind of consumers are more likely to click the ad.
 
-# Insights 
+# EDA 
+## Numertial Data VS Target
+ - Based on the image below, we can see that people who spend more time - around 80 minuts on the site are not likely to click the ad, and people who spend around 50 minuts are more likely to click the ad. The average age of the people who clicked the ad is around 40 and the average area income of consumers in class 1 is around 50000. Last, consumers in Class 1 have less daily internet usage. Those subplots are very infomative, and bring us some basic ideas. 
+ Besides numerical data, text data can also bring some useful information. For example, what kind of headline or topic of the ad is more attractive and consumers are more likely to click it. 
+![images/numertialdata_vs_target.png](images/numertialdata_vs_target.png)
+
+## Text Data
+### Bigram
+![images/bigram.png](images/bigram.png)
+### Word Cloud 
+![images/word_cloud_class0.png](images/word_cloud_class0.png)
+![images/word_cloud_class1.png](images/word_cloud_class1.png)
+People prefer topics like team oriented, fully configuratble, and context sensitive etc. We also can see that some topics that consumers do not really interest.
+
+## Correlationship
+- The average age in class 1 is always higher than that in class 0 in every single hour and weekday.
+![images/age_vs_target_in_a_day_week.png](images/age_vs_target_in_a_day_week.png)
+- The images below show that gender are even in two Classes and both female and male consumers who have lower area income are more likely to click the ad.
+![images/gender_hour_weekday.png](images/gender_hour_weekday.png)
+- People aged around 40 spend less thant 80 miunts are more likely to click the ad.
+- In Class 1, the mean of the age is around 40 and the daily internet usage range is between 100-200.
+![images/correlation_pairplot](images/correlation_pairplot)
+Code Source :https://www.kaggle.com/konchada/logistic-vs-random-forest-model-for-ad-click
+
+## Modeling 
+- Random Forest was applied in this project. After tuned hyperparameters with Grid Search and fitted the model, the accuracy and F1 scoure are upto 97%. 
+![images/confusion_matrix.png](images/confusion_matrix.png)
+![images/ROC.png](images/ROC.png)
 
 
-
-
-
+- The feature importance chart shows that daily internet usage, daily time spent on site, age and area income playes improtant roles for - "click the ad or not"
+![images/feature_importance.png](images/feature_importance.png)
 
 
 
