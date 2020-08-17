@@ -56,8 +56,8 @@ People prefer topics like team oriented, fully configuratble, and context sensit
 ![images/gender_hour_weekday.png](images/gender_hour_weekday.png)
 - People aged around 40 spend less thant 80 miunts are more likely to click the ad.
 - In Class 1, the mean of the age is around 40 and the daily internet usage range is between 100-200.
-![images/correlation_pairplot](images/correlation_pairplot)
-Code Source :https://www.kaggle.com/konchada/logistic-vs-random-forest-model-for-ad-click
+![images/correlation_pairplot.png](images/correlation_pairplot.png)
+- Code Source :https://www.kaggle.com/konchada/logistic-vs-random-forest-model-for-ad-click
 
 ## Modeling 
 - Random Forest was applied in this project. After tuned hyperparameters with Grid Search and fitted the model, the accuracy and F1 scoure are upto 97%. 
@@ -67,7 +67,6 @@ Code Source :https://www.kaggle.com/konchada/logistic-vs-random-forest-model-for
 
 - The feature importance chart shows that daily internet usage, daily time spent on site, age and area income playes improtant roles for - "click the ad or not"
 ![images/feature_importance.png](images/feature_importance.png)
-
 
 
 Referece:
