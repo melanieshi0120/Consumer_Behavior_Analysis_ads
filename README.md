@@ -44,7 +44,7 @@ There is a traveling advertisement which is for a 7-DAY tour for Rome or Paris. 
 ![images/rome_paris1.jpeg](images/rome_paris1.jpeg)
 
 After a new option was added — ‘Rome: Hotel+No Meal — $1800’, most people chose to go to Rome with the “Hotel+Meal”. Actually adding the “Hotel+No Meal” option is meaningless and obviously not a lot of people will choose it. However, the purpose of the new option is to influence people’s decisions.
-
+![images/rome_paris2.jpeg](images/rome_paris2.jpeg)
 
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
