@@ -19,6 +19,7 @@ Understanding consumer behavior is a vital aspect of marketing. Based on consume
 For example, if you visit this kind of website, you do not know where should you start with and you will lose your patient then you will want to leave this website immediately. That is why we do the tests (such as AB test, usability test, etc) to gain insights into customer behavior in order to optimize the customer journey and improve key KPIs — Conversion Rate, Revenue, Customer Life Time Value, and AOV (Average Order Value).
 A good and nice e-commerce website can greatly affect consumer behavior.
 ![images/worse_webpage.jpg](images/worse_webpage.jpg)
+# The Perspective of Behavioral Economics
 
 
 # Project Introduction
