@@ -20,7 +20,7 @@ For example, if you visit this kind of website, you do not know where should you
 A good and nice e-commerce website can greatly affect consumer behavior.
 ![images/worse_webpage.jpg](images/worse_webpage.jpg)
 # The Perspective of Behavioral Economics
-
+Behavioral Economics is the study of psychology as it relates to the economic decision-making processes of individuals and institutions. It could be combined with consumer behavior to study how people make decisions and how to affect people to make decisions with ‘invisible hands’.
 
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
