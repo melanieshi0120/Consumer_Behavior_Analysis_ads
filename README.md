@@ -28,6 +28,10 @@ Dan Ariely is an Israeli-American professor of psychology and behavioral economi
 
 ![images/organ_donation_barchart.png](images/organ_donation_barchart.png)
 
+The first four countries' situations are very different from the remaining countries. You might think those differences due to cultural and religious reasons, however, the cultures and religions of some countries are very similar. After research, he finally found that the biggest difference between those countries is the DMV application designs.
+design1 - Countries with low ratio: “If you wish to donate your organs and tissue, please sign here…”
+design2 -Countries with high ratio: “If you do not wish to donate your organs and tissue, please sign here…”
+
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
 - The data contains ten different columns:
