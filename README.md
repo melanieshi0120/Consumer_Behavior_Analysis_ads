@@ -22,6 +22,8 @@ A good and nice e-commerce website can greatly affect consumer behavior.
 # The Perspective of Behavioral Economics
 Behavioral Economics is the study of psychology as it relates to the economic decision-making processes of individuals and institutions. It could be combined with consumer behavior to study how people make decisions and how to affect people to make decisions with ‘invisible hands’.
 
+Dan Ariely is an Israeli-American professor of psychology and behavioral economics at Duke University. He mainly studies the role of human psychological phenomena in economics and how to use human psychological phenomena to influence people’s economic behavior. There are some classical examples to show how to influence consumers’ behavior.
+
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
 - The data contains ten different columns:
