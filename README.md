@@ -15,9 +15,11 @@ Making decisions are very dynamic processing and a lot of things could affect co
 - Advertising: Email, Mail, Magazine, Cookie, Social Media, Affiliate(Cashback Website), Partnership (Events like NBA, World Cup, TV Shows)
 
 ## Why Consumer Behavior data is important?
-Understanding consumer behavior is a vital aspect of marketing. Based on consumer behavior data, we are able to know how the consumer makes decisions and how potential customers will respond to new products or new services. It is important to explore actionable insights from the data to support companies to put forward corresponding strategies.
+Understanding consumer behavior is a vital aspect of marketing. Based on consumer behavior data, we are able to know how consumers make decisions and how potential customers will respond to new products or new services. It is important to explore actionable insights from the data to support companies to put forward corresponding strategies.
+For example, if you visit this kind of website, you do not know where should you start with and you will lose your patient then you will want to leave this website immediately. That is why we do the tests (such as AB test, usability test, etc) to gain insights into customer behavior in order to optimize the customer journey and improve key KPIs — Conversion Rate, Revenue, Customer Life Time Value, and AOV (Average Order Value).
+A good and nice e-commerce website can greatly affect consumer behavior.
+![images/worse_webpage.jpg](images/worse_webpage.jpg)
 
-For example, we do the test (such as AB test, usability test, etc) to gain insights into customer behavior in order to optimize the customer journey and improve key KPIs — Conversion Rate, Revenue, Customer Life Time Value, and AOV (Average Order Value).
 
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
