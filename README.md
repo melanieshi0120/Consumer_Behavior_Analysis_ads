@@ -24,13 +24,20 @@ Behavioral Economics is the study of psychology as it relates to the economic de
 
 Dan Ariely is an Israeli-American professor of psychology and behavioral economics at Duke University. He mainly studies the role of human psychological phenomena in economics and how to use human psychological phenomena to influence people’s economic behavior. There are some classical examples to show how to influence consumers’ behavior.
 
-1st example: When you apply for driver’s license at DMV you can see there is a part in your application to show if you wish to donate your organs and tissues after declared death. Dan Ariely did research about the ratio of the people who are willing to donate their organs in European countries and here is the bar chart for the result.
+## 1st example: 
+When you apply for driver’s license at DMV you can see there is a part in your application to show if you wish to donate your organs and tissues after declared death. Dan Ariely did research about the ratio of the people who are willing to donate their organs in European countries and here is the bar chart for the result.
 
 ![images/organ_donation_barchart.png](images/organ_donation_barchart.png)
 
 The first four countries' situations are very different from the remaining countries. You might think those differences due to cultural and religious reasons, however, the cultures and religions of some countries are very similar. After research, he finally found that the biggest difference between those countries is the DMV application designs.
-design1 - Countries with low ratio: “If you wish to donate your organs and tissue, please sign here…”
-design2 -Countries with high ratio: “If you do not wish to donate your organs and tissue, please sign here…”
+- design1 - Countries with low ratio: “If you wish to donate your organs and tissue, please sign here…”
+- design2 -Countries with high ratio: “If you do not wish to donate your organs and tissue, please sign here…”
+
+
+As long as people notice that there is something relative to “organ donation”, by the “default” most people will not sign for design 1 or design 2. So the people’s decision was affected by the different designs of organ donation consent. This is a kind of dependence on the default options because it does not give people psychological pressure.
+## 2nd example:
+If one brand always offers a “big sale” promotion, most consumers will think that the real price is cheaper than the after-sale price and might also think “low price = low quality”. On the other hand, another expensive brand rarely offers discounts. If there is a big sale of this brand, most consumers are more likely to purchase and maybe buy some products that they might not really need.
+
 
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
