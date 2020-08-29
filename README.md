@@ -38,6 +38,13 @@ As long as people notice that there is something relative to “organ donation�
 ## 2nd example:
 If one brand always offers a “big sale” promotion, most consumers will think that the real price is cheaper than the after-sale price and might also think “low price = low quality”. On the other hand, another expensive brand rarely offers discounts. If there is a big sale of this brand, most consumers are more likely to purchase and maybe buy some products that they might not really need.
 
+## 3rd example:
+There is a traveling advertisement which is for a 7-DAY tour for Rome or Paris. People have two equal options — $1800 includes the fees of hotels and meals for both different cities. The number of people who chose Roma is similar to that of people who chose Paris.
+
+![images/rome_paris1.jpeg](images/rome_paris1.jpeg)
+
+After a new option was added — ‘Rome: Hotel+No Meal — $1800’, most people chose to go to Rome with the “Hotel+Meal”. Actually adding the “Hotel+No Meal” option is meaningless and obviously not a lot of people will choose it. However, the purpose of the new option is to influence people’s decisions.
+
 
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
