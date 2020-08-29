@@ -45,7 +45,7 @@ There is a traveling advertisement which is for a 7-DAY tour for Rome or Paris. 
 
 After a new option was added — ‘Rome: Hotel+No Meal — $1800’, most people chose to go to Rome with the “Hotel+Meal”. Actually adding the “Hotel+No Meal” option is meaningless and obviously not a lot of people will choose it. However, the purpose of the new option is to influence people’s decisions.
 ![images/rome_paris2.jpeg](images/rome_paris2.jpeg)
-
+There is an interesting hidden theory behind those examples- Game Theory! Game Theory is a study of strategic interaction among rational decision-makers using mathematical models. If we are able to understand and analyze Consumer Behavior with Behavioral Economics/Game Theory, we can predict people’s behavior and their expectation, and then we can put forward targeted strategies that can affect consumer’s decisions and maximize their’s utility. If you are interested in Game Theory, you can visit my previous blog.
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
 - The data contains ten different columns:
