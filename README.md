@@ -24,6 +24,10 @@ Behavioral Economics is the study of psychology as it relates to the economic de
 
 Dan Ariely is an Israeli-American professor of psychology and behavioral economics at Duke University. He mainly studies the role of human psychological phenomena in economics and how to use human psychological phenomena to influence people’s economic behavior. There are some classical examples to show how to influence consumers’ behavior.
 
+1st example: When you apply for driver’s license at DMV you can see there is a part in your application to show if you wish to donate your organs and tissues after declared death. Dan Ariely did research about the ratio of the people who are willing to donate their organs in European countries and here is the bar chart for the result.
+
+![images/organ_donation_barchart.png](images/organ_donation_barchart.png)
+
 # Project Introduction
 - The dataset created by Jose Portilla and Pierian Data for his Udemy Course (Python for Data Science and Machine Learning Bootcamp). You can get the data from -  https://www.kaggle.com/fayomi/advertising.
 - The data contains ten different columns:
